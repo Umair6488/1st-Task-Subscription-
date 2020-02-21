@@ -1,0 +1,31 @@
+.form-con{
+    background-color: #eef8f8;
+}
+
+.form-con span{
+    color: red;
+}
+label.inactive {
+    background:
+        red;
+    color:
+        white !important;
+    border-radius: 5px;
+}
+
+
+element {
+
+}
+label.active {
+
+    background:
+
+        green;
+
+    color:
+
+        white !important;
+    border-radius: 5px;
+
+}
